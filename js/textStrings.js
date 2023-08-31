@@ -1,7 +1,7 @@
 ///////////////////////////////////
 ///// TEXT STRINGS ////////////////
 ///////////////////////////////////
-var textStrings_IW = {
+var textStrings_HE = {
      // Act 1
       "niceHat"              : "אה-יוו אחלה כובע"                                          ,
       "outtaHere"            : "אוקע יאללה עוף מפה"                                ,
@@ -102,4 +102,4 @@ var textStrings_IW = {
      "misatrributed"      : "(并不是他说的)" ,
  };
 
-var textStrings = textStrings_IW
+var textStrings = textStrings_HE
