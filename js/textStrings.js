@@ -88,8 +88,8 @@ var textStrings_IW = {
      "logoWBWWB"          : "שתפו את הכאב:" ,
      
      // (end_prototype.png)
-     "endOfPrototype"     : "结束" ,
-     "toBeContinued"      : "(还没完!)" ,
+     "endOfPrototype"     : "סיימנו ת'משחק! רגע.." ,
+     "toBeContinued"      : "(המשך יבוא)" ,
      
      // (quote0002.png)
      "WBWWB"              : "我们变成了我们所看到的." ,
