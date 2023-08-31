@@ -1,91 +1,91 @@
 ///////////////////////////////////
 ///// TEXT STRINGS ////////////////
 ///////////////////////////////////
-var textStrings_CN = {
+var textStrings_IW = {
      // Act 1
-      "niceHat"              : "哦！一顶好帽子！"                                          ,
-      "outtaHere"            : "是的，请滚出去"                                ,
-      "getARoom"             : "恶心，你们去开房吧"                                  ,
-      "notCoolAnymore"       : "nvm...这顶帽子不酷了"                          ,
-      "tvOnTv"               : "禁止套娃"                                        ,
-      "cricky"               : "一只小蟋蟀 <3"                                        ,
-    "tooManyCrickets"      : "好的太多蟋蟀了"                         ,
-     "normalPeep"           : "就是一个正常人"                                    ,
-     "normalPeeps"          : "就是一些正常人"                                ,
-     "wowNothing"           : "WOW,什么也没有"                                  ,
+      "niceHat"              : "אה-יוו אחלה כובע"                                          ,
+      "outtaHere"            : "אוקע יאללה עוף מפה"                                ,
+      "getARoom"             : "איכסהה!! לכו תשיגו חדר במלון!"                                  ,
+      "notCoolAnymore"       : "נעע.. כובעים זה כבר לא כזה מגניב"                          ,
+      "tvOnTv"               : "טלויזיה! ב.. טלויזיה!!"                                        ,
+      "cricky"               : "יווו צרצרון!!"                                        ,
+    "tooManyCrickets"      : "אוקיי עכשיו יש יותר מדי צרצרים"                         ,
+     "normalPeep"           : "נעע סתם איש רגיל"                                    ,
+     "normalPeeps"          : "אנשים רגילים סה"כ"                                ,
+     "wowNothing"           : "יוו, זה *כלום*"                                  ,
      
      // Act 2
-     "crazySquareAttacks"   : "疯狂小方攻击"                                 ,
-     "justMissed"           : "ohhh差点就错过了"                                 ,
-    "somethingInteresting" : "(你应该拍些有趣的)" ,
-     "whoIsScreaming"       : "(谁在尖叫？）"               ,
-    "circleFearsSquares"   : "小圆害怕小方"                                  ,
-    "whoScaresThem"        : "(你应该拍下谁在害怕他们)"         ,
-     "areTheyScared"        : "(你得拍住他们被小方吓坏了)"       , 
-     "squaresSnubCircles"   : "小方冷落小圆"                                  ,
-    "areTheySnubbed"       : "(你必须拍下他们 *正在* 冷落小圆)"        , 
-    "everyoneHates"        : "每个人都讨厌每个人!"                           ,
-   "almostEveryoneHates"  : "几乎每个人都讨厌每个人"                     ,
-   "squaresHateCircles"   : "小方讨厌小圆"                                  ,
-   "circlesHateSquares"   : "小圆讨厌小方"                                  ,
-   "areTheyYelling"       : "(你得拍下他们对别人大喊大叫)"              , 
-    "nerdsNow"             : "这些人在做什么"                        ,
-   "schockedPeep"         : "为什么这个人在害怕？"                              ,
-     "whatever"             : "无论什么"                                              ,
+     "crazySquareAttacks"   : "מרובע משוגע תוקף!"                                 ,
+     "justMissed"           : "באסהה, איזה פספוס"                                 ,
+    "somethingInteresting" : "(ת'צריך לתפוס'תם עושים *משהו* מעניין...)" ,
+     "whoIsScreaming"       : "(ת'צריך לראות מי צרח עליהם）"               ,
+    "circleFearsSquares"   : "עיגול מפחד ממרובע"                                  ,
+    "whoScaresThem"        : "(ת'צריך לראות גם *ממי* הם מפחדים)"         ,
+     "areTheyScared"        : "(ת'צריך לתפוס'תם *מפחדים* ממרובע)"       , 
+     "squaresSnubCircles"   : "מרובעים מדחיקים עיגולים!!"                                  ,
+    "areTheySnubbed"       : "(ת'צריך לתפוס'תם *תוך כדי* שהם מדחיקים עיגול)"        , 
+    "everyoneHates"        : "כולם שונאים את כולם!!1!"                           ,
+   "almostEveryoneHates"  : "כמעט כולם שונאים את כולם..."                     ,
+   "squaresHateCircles"   : "מרובעים שונאים עיגולים!!"                                  ,
+   "circlesHateSquares"   : "עיגולים שונאים מרובעים!!"                                  ,
+   "areTheyYelling"       : "(ת'צריך לתפוס'תם *צורחים* על אחרים)"              , 
+    "nerdsNow"             : "מה החננות האלה עושים עכשיו"                        ,
+   "schockedPeep"         : "למה האיש הזה בהלם?"                              ,
+     "whatever"             : "נעע.. שיהיה"                                              ,
     
    // Act 3
-    "ellipsis"             : "有一种不好的感觉"                                                 ,
-    "coolNoMore"           : "帽子不再酷了，你听说了么？"           ,
-    "beScared"             : "害怕吧，生气吧！"                                  ,
+    "ellipsis"             : ". . ."                                                 ,
+    "coolNoMore"           : "כובעים זה כבר לא מגניב, מה לא שמעת?"           ,
+    "beScared"             : "תפחדו. תכעסו."                                  ,
     
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
-      "谁来监视人们相处？*",
-        "和平是无聊的。冲突会获得点击。"    ,
+      "מי ירצה לראות *אנשים מסתדרים*",
+        "שלום זה משעמם. אלימות זה ויראלי"    ,
         //"peace is boring. conflict gets clicks." ,
-        "给观众他们想要的。"  ,
+        "וכל סיפור צריך קונפליקט, אז..."  ,
         //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-        "汉化:ClayCoffee"
+        "תנו לקהל את מה שהם רוצים."
      ] ,
      
      // -- Strings currently in graphics resources --
         // (bg_preload.png) Preload screen
-     "playingTime"        : "大致游玩时间: 5 分钟" ,
-     "warning"            : "警告: 这个游戏\n包含暴力,\n血腥，可能会对某些人造成不良影响。.\n请自行选择是否游玩.\n汉化:ClayCoffee,原作者Nicky Case.\n哔哩哔哩:ClayCoffee" ,
+     "playingTime"        : "זמן משחק: בערך 5 דקות" ,
+     "warning"            : 'תורגם לעברית ע"י איתן בילצקי (טנא)' ,
      
      // (cam-instructions.png) Camera Instructions
-     "pointAndClick"      : "点击 & 拍摄" ,
+     "pointAndClick"      : "תצביעו & תלחצו" ,
      
      // (chyron3.png)
-     "chyronNothing"      : "WOWWEE, *什么都没有*" ,
+     "chyronNothing"      : "אה-יוו, זה *כלום*" ,
      
      // (credits0001.png)
-     "createdBy"          : "汉化ClayCoffee" ,
-     "NickyCase"          : "作者Nicky Case" ,
+     "createdBy"          : 'תורגם לעברית ע"י איתן בילצקי (טנא)' ,
+     "NickyCase"          : 'התכנית המוקרית ע"י Nicky Case' ,
      
      // (credits0002.png)
-     "manyThanks"         : "很感谢我的测试者们:" ,
+     "manyThanks"         : "תודה רבה לפלייטסטרים שלי:" ,
      
      // (credits000[3,4,5,6].png)
-     "patreonSupporters"  : "还有我的资助者们:" ,
+     "patreonSupporters"  : "לתומכים שלי בפטריאון:" ,
      
      // (credits0007.png)
-     "lastButNotLeast"    : "还有一句话," ,
+     "lastButNotLeast"    : "ואחרונים חביבים," ,
      
      // (credits0008.png)
-     "thankYouForPlaying" : "感谢您的游玩!" ,
+     "thankYouForPlaying" : "תודה *לכם* ששיחקתם!" ,
      
      // (preload_play.png)
-     "playButton"         : "开始" ,
+     "playButton"         : "יאללה למשחק" ,
      
      // (end_button.png) Post Credits
-     "otherWorkButton"    : "其他游戏" ,
-     "buyCoffeeButton"    : "捐助" ,
-     "replayButton"       : "重玩" ,
+     "otherWorkButton"    : "לעמוד של ניקי" ,
+     "buyCoffeeButton"    : "לקנות לי קפה" ,
+     "replayButton"       : "שחקו שוב בבלגן הזה" ,
      
      // (logo.png) Post Credits
-     "logoWBWWB"          : "分享这个图片:" ,
+     "logoWBWWB"          : "שתפו את הכאב:" ,
      
      // (end_prototype.png)
      "endOfPrototype"     : "结束" ,
@@ -102,4 +102,4 @@ var textStrings_CN = {
      "misatrributed"      : "(并不是他说的)" ,
  };
 
-var textStrings = textStrings_CN
+var textStrings = textStrings_IW
