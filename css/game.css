@@ -10,6 +10,7 @@
 }
 
 html, body{
+	direction: rtl;
 	font-family: 'Nehama' !important;
 	width: 100%;
 	height: 100%;
