@@ -3,7 +3,7 @@
 ///////////////////////////////////
 var textStrings_CN = {
      // Act 1
-      "niceHat"              : "א!"                                          ,
+      "niceHat"              : "אה-יוו אחלה כובע!"                                          ,
       "outtaHere"            : "\x80\x85\x97\x92 \x89\x80\x8C\x8C\x84 \x92\x85\x93 \x8E\x94\x84"                                ,
       "getARoom"             : "\x80\x89\x8B\x91\x84\x84!! \x8C\x8B\x85 \x9A\x99\x89\x82\x85 \x87\x83\x98 \x81\x8E\x8C\x85\x8F!"                                  ,
       "notCoolAnymore"       : "\x90\x92\x92.. \x8B\x85\x81\x92\x89\x8D \x86\x84 \x8B\x81\x98 \x8C\x80 \x8B\x86\x84 \x8E\x82\x90\x89\x81"                          ,
