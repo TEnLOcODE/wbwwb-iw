@@ -5,7 +5,12 @@
 	src: url('NehamaRegular.ttf') format('truetype');
 }
 
+*{
+	font-family: 'Nehama' !important;	
+}
+
 html, body{
+	font-family: 'Nehama' !important;
 	width: 100%;
 	height: 100%;
 }
