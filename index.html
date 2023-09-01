@@ -8,15 +8,15 @@
 		<div id="stage"></div>
 		<div id="modal_shade"></div>
 		<div class="overlay" id="warning">
-			<div>不好</div>
+			<div>!איזה באסה</div>
 			<div>
-			你的浏览器不支持WebGL技术.<br>
-			请尝试更换电脑或使用另一个浏览器再试一次?
+			הדפדפן שלך לא תומך ב- WebGL<br>
+			אולי ננסה במחשב אחר?
 			</div>
 		</div>
 		<div class="overlay" id="paused">
-			<div>暂停<br>
-			点击任何地方继续
+			<div>המשחק נעצר<br>
+			לחץ בכל מקום במסך בכדי להמשיך
 			</div>
 		</div>
 	</body>
@@ -28,7 +28,7 @@
 <script src="js/lib/stats.min.js"></script>
 <script>var createjs = window;</script>
 <script src="js/lib/tweenjs-0.6.2.min.js"></script>
-<script>Ticker.framerate=60; Ticker.paused=true;</script>
+<script>Ticker.framerate=120; Ticker.paused=true;</script>
 <script src="js/lib/helpers.js"></script>
 
 <!-- Text Strings -->
@@ -97,6 +97,6 @@ window.onload = function(){
 		document.getElementById("warning").style.display = "block";
 	}
 };
-window.SHARE_TEXT = "I just played this really weird game about the news. WE BECOME WHAT WE BEHOLD:"
-window.SHARE_URL = "https://ncase.itch.io/wbwwb";
+window.SHARE_TEXT = "שיחקתי במשחק מוזר כזה על החדשות. אנו הופכים לדברים שאנו צופים:"
+window.SHARE_URL = "https://tenlocode.github.io/wbwwb-iw";
 </script>
