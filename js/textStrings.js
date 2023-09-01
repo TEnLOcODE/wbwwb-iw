@@ -1,52 +1,52 @@
 ///////////////////////////////////
 ///// TEXT STRINGS ////////////////
 ///////////////////////////////////
-var textStrings_CN = {
+var textStrings_IW = {
      // Act 1
-      "niceHat"              : "אה-יוו אחלה כובע!"                                          ,
+      "niceHat"              : "!אה-יוו אחלה כובע"                                          ,
       "outtaHere"            : "אוקע יאללה עוף מפה"                                ,
-      "getARoom"             : "איכסהה!! לכו תשיגו חדר במלון!"                                  ,
+      "getARoom"             : "!איכסהה!! לכו תשיגו חדר במלון"                                  ,
       "notCoolAnymore"       : "נעע.. כובעים זה כבר לא כזה מגניב"                          ,
-      "tvOnTv"               : "טלויזיה! ב.. טלויזיה!!"                                        ,
-      "cricky"               : "יווו צרצרון!!"                                        ,
+      "tvOnTv"               : "!!טלויזיה! ב.. טלויזיה"                                        ,
+      "cricky"               : "!!יווו צרצרון"                                        ,
     "tooManyCrickets"      : "אוקיי עכשיו יש יותר מדי צרצרים"                         ,
      "normalPeep"           : "נעע סתם איש רגיל"                                    ,
      "normalPeeps"          : 'אנשים רגילים סה"כ'                                ,
-     "wowNothing"           : "יוו, זה *כלום*"                                  ,
+     "wowNothing"           : "*יוו, זה *כלום"                                  ,
      
      // Act 2
      "crazySquareAttacks"   : "מרובע משוגע תוקף!"                                 ,
      "justMissed"           : "באסהה, איזה פספוס"                                 ,
-    "somethingInteresting" : "(ת'צריך לתפוס'תם עושים *משהו* מעניין...)" ,
+    "somethingInteresting" : "(.ת'צריך לתפוס'תם עושים *משהו* מעניין)" ,
      "whoIsScreaming"       : "(ת'צריך לראות מי צרח עליהם）"               ,
-    "circleFearsSquares"   : "עיגול מפחד ממרובע"                                  ,
+    "circleFearsSquares"   : "!עיגול מפחד ממרובע"                                  ,
     "whoScaresThem"        : "(ת'צריך לראות גם *ממי* הם מפחדים)"         ,
      "areTheyScared"        : "(ת'צריך לתפוס'תם *מפחדים* ממרובע)"       , 
-     "squaresSnubCircles"   : "מרובעים מדחיקים עיגולים!!"                                  ,
+     "squaresSnubCircles"   : "!מרובע מדחיק עיגול"                                  ,
     "areTheySnubbed"       : "(ת'צריך לתפוס'תם *תוך כדי* שהם מדחיקים עיגול)"        , 
-    "everyoneHates"        : "כולם שונאים את כולם!!1!"                           ,
-   "almostEveryoneHates"  : "כמעט כולם שונאים את כולם..."                     ,
-   "squaresHateCircles"   : "מרובעים שונאים עיגולים!!"                                  ,
-   "circlesHateSquares"   : "עיגולים שונאים מרובעים!!"                                  ,
+    "everyoneHates"        : "!כולם שונאים את כולם!!1"                           ,
+   "almostEveryoneHates"  : "...כמעט כולם שונאים את כולם"                     ,
+   "squaresHateCircles"   : "!!מרובעים שונאים עיגולים"                                  ,
+   "circlesHateSquares"   : "!!עיגולים שונאים מרובעים"                                  ,
    "areTheyYelling"       : "(ת'צריך לתפוס'תם *צורחים* על אחרים)"              , 
     "nerdsNow"             : "מה החננות האלה עושים עכשיו"                        ,
-   "schockedPeep"         : "למה האיש הזה בהלם?"                              ,
+   "schockedPeep"         : "?למה האיש הזה בהלם"                              ,
      "whatever"             : "נעע.. שיהיה"                                              ,
     
    // Act 3
     "ellipsis"             : ". . ."                                                 ,
-    "coolNoMore"           : "כובעים זה כבר לא מגניב, מה לא שמעת?"           ,
-    "beScared"             : "תפחדו. תכעסו."                                  ,
+    "coolNoMore"           : "?כובעים זה כבר לא מגניב, מה לא שמעת"           ,
+    "beScared"             : ".תפחדו. תכעסו"                                  ,
     
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
-      "מי ירצה לראות *אנשים מסתדרים*",
+      "*מי ירצה לראות *אנשים מסתדרים",
         "שלום זה משעמם. אלימות זה ויראלי"    ,
         //"peace is boring. conflict gets clicks." ,
-        "וכל סיפור צריך קונפליקט, אז..."  ,
+        "...וכל סיפור צריך קונפליקט, אז"  ,
         //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-        "תנו לקהל את מה שהם רוצים."
+        ".תנו לקהל את מה שהם רוצים"
      ] ,
      
      // -- Strings currently in graphics resources --
@@ -58,23 +58,23 @@ var textStrings_CN = {
      "pointAndClick"      : "תצביעו & תלחצו" ,
      
      // (chyron3.png)
-     "chyronNothing"      : "אה-יוו, זה *כלום*" ,
+     "chyronNothing"      : "*אה-יוו, זה *כלום" ,
      
      // (credits0001.png)
      "createdBy"          : 'תורגם לעברית ע"י איתן בילצקי (טנא)' ,
      "NickyCase"          : 'התכנית המוקרית ע"י Nicky Case' ,
      
      // (credits0002.png)
-     "manyThanks"         : "תודה רבה לפלייטסטרים שלי:" ,
+     "manyThanks"         : ":תודה רבה לפלייטסטרים שלי" ,
      
      // (credits000[3,4,5,6].png)
-     "patreonSupporters"  : "לתומכים שלי בפטריאון:" ,
+     "patreonSupporters"  : ":לתומכים שלי בפטריאון" ,
      
      // (credits0007.png)
-     "lastButNotLeast"    : "ואחרונים חביבים," ,
+     "lastButNotLeast"    : ",ואחרונים חביבים" ,
      
      // (credits0008.png)
-     "thankYouForPlaying" : "תודה *לכם* ששיחקתם!" ,
+     "thankYouForPlaying" : "!תודה *לכם* ששיחקתם" ,
      
      // (preload_play.png)
      "playButton"         : "יאללה למשחק" ,
@@ -85,21 +85,21 @@ var textStrings_CN = {
      "replayButton"       : "שחקו שוב בבלגן הזה" ,
      
      // (logo.png) Post Credits
-     "logoWBWWB"          : "שתפו את הכאב:" ,
+     "logoWBWWB"          : ":שתפו את הכאב" ,
      
      // (end_prototype.png)
-     "endOfPrototype"     : "סיימנו ת'משחק! רגע.." ,
+     "endOfPrototype"     : "..סיימנו ת'משחק! רגע" ,
      "toBeContinued"      : "(המשך יבוא)" ,
      
      // (quote0002.png)
-     "WBWWB"              : "我们变成了我们所看到的." ,
-     "WSOTATOTSU"         : "我们塑造我们的工具，然后我们的工具塑造我们。" ,
+     "WBWWB"              : ".אנחנו הופכים למה שיש לנו" ,
+     "WSOTATOTSU"         : "אנחנו יוצרים את הכלים שלנו, והכלים שלנו משתלטים עלינו." ,
      
      // (quote0003.png)
-     "MarshallMcLuhan"    : "——————马歇尔·麦克卢汉" ,
+     "MarshallMcLuhan"    : "מרשל מקלוהן————" ,
      
      // (quote0004.png)
-     "misatrributed"      : "(并不是他说的)" ,
+     "misatrributed"      : "(נוסח לא נכון)" ,
  };
 
-var textStrings = textStrings_CN
+var textStrings = textStrings_IW
