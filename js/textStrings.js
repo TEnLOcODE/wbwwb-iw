@@ -15,7 +15,7 @@ var textStrings_IW = {
      "wowNothing"           : "*יוו, זה *כלום"                                  ,
      
      // Act 2
-     "crazySquareAttacks"   : "מרובע משוגע תוקף!"                                 ,
+     "crazySquareAttacks"   : "!מרובע משוגע תוקף"                                 ,
      "justMissed"           : "באסהה, איזה פספוס"                                 ,
     "somethingInteresting" : "(.ת'צריך לתפוס'תם עושים *משהו* מעניין)" ,
      "whoIsScreaming"       : "(ת'צריך לראות מי צרח עליהם）"               ,
